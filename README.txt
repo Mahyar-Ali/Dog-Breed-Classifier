@@ -42,3 +42,6 @@ ResNet152v2 is very deep model and as we do not have a large dataset, the model 
 So,model [using transfering learning on] Xception is better by about 6% accuracy on training set.
 
 ResNet152v2 : ~80% accuracy on test set. </br> Xception : ~86% accuracy on test set
+
+----------------------------------------------------------------------------------------
+author : m.mahyarali   --- April 18,2020
