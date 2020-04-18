@@ -274,5 +274,4 @@ So,model `[using transfering learning on]` Xception is better by about 6% accura
 ResNet152v2 : ``~80% accuracy on test set.``
 </br>
 Xception    : ``~86% accuracy on test set``
-"""
-
+'''
