@@ -1,9 +1,9 @@
 # Dog-Breed-Classifier
-Predicting the Breed of a Dog using Transfer learning and Fine tuning in Keras 
+Predicting the Breed of a Dog using Transfer learning in Keras 
 -----------------------------------------------------------------------------------
 
 Predicting the breed of a dog is quite a huge task but we can make this task simple using transfer learning.
-In this notebook I have used Fine Tuning on pretained models. The models which I selected for this task are 
+In this notebook I have used Transfer Learning on pretained models. The models which I selected for this task are 
 - XCEPTION
 - RESNET152V2
 
